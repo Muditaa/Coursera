@@ -26,8 +26,11 @@ h1 {
 	margin-bottom: 10px;
 	text-align: center;
 	float: right;
-	position: relative;
+   border-right-color: transparent;
+  border-top-color: transparent; 
 	margin-top: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 5px;
 	}
 
 	#second {
@@ -35,6 +38,7 @@ h1 {
   background-color: yellow;
   height: 100%;
   margin: 5px;
+  position: relative;
 }
 
 #pizza {
@@ -45,8 +49,11 @@ h1 {
 	margin-bottom: 10px;
 	text-align: center;
 	float: right;
-	position: relative;
 	margin-top: 0px;
+  border-right-color: transparent;
+  border-top-color: transparent; 
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 5px;
 	}	
 
 #third {
@@ -64,8 +71,11 @@ h1 {
 	margin-bottom: 10px;
 	text-align: center;
 	float: right;
-	position: relative;
+   border-right-color: transparent;
+  border-top-color: transparent; 
 	margin-top: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 5px;
 	}
 
 	p{
